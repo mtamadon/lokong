@@ -1,5 +1,9 @@
-#LoKong
+## LoKong
 
-Logs for Kong!
+Log storage for Kong!
+compatible with http log plugin
 
-powered by Adonis 5 with Love!
+
+
+-------
+Proudly powered by AdonisJs 5 with ❤️!
